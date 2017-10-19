@@ -19,6 +19,4 @@
 </ol>  
 
 
-
-<h3>References</h3>
  
