@@ -13,9 +13,10 @@
 
 <h3>References</h3>
 <ol>
-  <li><a href="https://p5js.org/examples/" target=""> p5js Examples</a></li>
-  <li>https://p5js.org/examples/form-points-and-lines.html</li>
-  <li>https://p5js.org/</li>
+  <li><a href="https://p5js.org/examples/" target="_blank">https://p5js.org/examples/</a></li>
+  <li><a href="https://p5js.org/examples/form-points-and-lines.html" target="_blank">https://p5js.org/examples/form-points-and-lines.htmls</a></li>
+    <li><a href="https://p5js.org/" target="_blank">https://p5js.org/</a></li>
+ 
 </ol>  
 
 
