@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c660f072-3648-4f14-a385-7bd2a433edff" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/RandomSizedTarget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p5.speech.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ps5index.html" afterPath="$PROJECT_DIR$/ps5index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sketch.js" afterPath="$PROJECT_DIR$/sketch.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ps5index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ps5index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="53" lean-forward="false" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomSizedTarget.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/RandomSizedTarget.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sketch.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sketch.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="130" column="1" lean-forward="false" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>voice</find>
+      <find>https://p5js.org/reference/#/p5/millis</find>
+      <find>\&lt;\!DOCTYPE html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\&lt;head\&gt;\n    \&lt;meta charset\=\&quot;UTF\-8\&quot;\&gt;\n    \&lt;title\&gt;Random Sized Targets\&lt;\/title\&gt;\n    \&lt;script src\=\&quot;https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/p5\.js\/0\.5\.16\/p5\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script src\=\&quot;https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/p5\.js\/0\.4\.5\/addons\/p5\.dom\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;link href\=\&quot;https\:\/\/maxcdn\.bootstrapcdn\.com\/bootstrap\/3\.3\.7\/css\/bootstrap\.min\.css\&quot; rel\=\&quot;stylesheet\&quot; integrity\=\&quot;sha384\-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va\+PmSTsz\/K68vbdEjh4u\&quot; crossorigin\=\&quot;anonymous\&quot;\&gt;\n    \&lt;link href\=\&quot;\.\.\/styles\.css\&quot; rel\=\&quot;stylesheet\&quot;\&gt;\n\n    \&lt;script src\=\&quot;\.\.\/p5\.speech\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;\/head\&gt;\n\&lt;body class\=\&quot;bg\&quot;\&gt;\n\&lt;div class\=\&quot;container\&quot;\&gt;\n\n    \&lt;h1\&gt;Fitt\'s Law Demo\&lt;\/h1\&gt;\n\n\n    \&lt;ol\&gt;\n        \&lt;li\&gt; \&lt;a href\=\&quot;https\:\/\/p5js\.org\/reference\/\#\/p5\/createCanvas\&quot;\&gt;Create a canvas\&lt;\/a\&gt; that is 640x480\n        \&lt;\/li\&gt;\&lt;li\&gt;When the user \&lt;a href\=\&quot;https\:\/\/p5js\.org\/reference\/\#\/p5\/mouseIsPressed\&quot;\&gt;clicks their mouse\&lt;\/a\&gt; for the first time\, start the simulation\.\n        \&lt;ul\&gt;\n            \&lt;li\&gt; Record the current time using the \&lt;a href\=\&quot;https\:\/\/p5js\.org\/reference\/\#\/p5\/millis\&quot;\&gt;millis\&lt;\/a\&gt; function\.\n            \&lt;\/li\&gt;\&lt;li\&gt; Draw a square at a \&lt;a href\=\&quot;https\:\/\/p5js\.org\/reference\/\#\/p5\/random\&quot;\&gt;random\&lt;\/a\&gt; position\.\n            \&lt;ul\&gt;\n                \&lt;li\&gt; The random x\-coordinate will be between 0\-600\.\n                \&lt;\/li\&gt;\&lt;li\&gt; The random y\-coordinate will be between 0\-400\.\n            \&lt;\/li\&gt;\&lt;li\&gt; The square size will be 40x40\.\n            \&lt;\/li\&gt;\&lt;li\&gt; Record the \&lt;a href\=\&quot;https\:\/\/p5js\.org\/reference\/\#\/p5\/mouseX\&quot;\&gt;mouseX\&lt;\/a\&gt; and \&lt;a href\=\&quot;https\:\/\/p5js\.org\/reference\/\#\/p5\/mouseY\&quot;\&gt;mouseY\&lt;\/a\&gt; position at this time\.\n            \&lt;\/li\&gt;\&lt;\/ul\&gt;\n        \&lt;\/li\&gt;\&lt;li\&gt;Everytime the user presses their mouse\, increment a counter\.\n            \&lt;ul\&gt;\n                \&lt;li\&gt;If the user clicks in the box\, then record how long it took\.\n                    \&lt;ul\&gt;\n                        \&lt;li\&gt; Add this to an array data structure to store these times\.\n                        \&lt;\/li\&gt;\&lt;li\&gt; You add elements to arrays by \'\&lt;a href\=\&quot;https\:\/\/www\.w3schools\.com\/js\/js_array_methods\.asp\&quot;\&gt;pushing\&lt;\/a\&gt; them\'\n                    \&lt;\/li\&gt;\&lt;\/ul\&gt;\n                \&lt;\/li\&gt;\&lt;li\&gt; Calculate the \&lt;a href\=\&quot;https\:\/\/p5js\.org\/reference\/\#\/p5\/dist\&quot;\&gt;distance\&lt;\/a\&gt; from the previously recorded \&lt;a href\=\&quot;https\:\/\/p5js\.org\/reference\/\#\/p5\/mouseX\&quot;\&gt;mouseX\&lt;\/a\&gt; and \&lt;a href\=\&quot;https\:\/\/p5js\.org\/reference\/\#\/p5\/mouseY\&quot;\&gt;mouseY\&lt;\/a\&gt; variables\. Push these values in a separate array\.\n            \&lt;\/li\&gt;\&lt;li\&gt;If the user misses the square\, tally that as an error\.\n            \&lt;\/li\&gt;\&lt;\/ul\&gt;\n        \&lt;\/li\&gt;\&lt;\/ul\&gt;\n    \&lt;\/li\&gt;\&lt;li\&gt; For display you may find useful\: \&lt;a href\=\&quot;https\:\/\/p5js\.org\/reference\/\#\/p5\/text\&quot;\&gt;text\&lt;\/a\&gt;\n    \&lt;\/li\&gt;\&lt;li\&gt; Consult the \&lt;a href\=\&quot;https\:\/\/p5js\.org\/reference\/\&quot;\&gt;Reference\&lt;\/a\&gt; for more commands and add at least one new element our \&lt;a href\=\&quot;https\:\/\/p5js\.org\/libraries\/\&quot;\&gt;library\&lt;\/a\&gt; beyond what I have done\.\n    \&lt;\/li\&gt;\&lt;\/ol\&gt;\n\n\n\n\&lt;\/div\&gt;\n\n\&lt;\/body\&gt;\n\n\&lt;\/html\&gt;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sketch.js" />
+        <option value="$PROJECT_DIR$/RandomSizedTarget.html" />
+        <option value="$PROJECT_DIR$/styles.css" />
+        <option value="$PROJECT_DIR$/ps5index.html" />
+        <option value="$PROJECT_DIR$/html/RandomSizedTarget.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ps5js-firstapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ps5js-firstapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ps5js-firstapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ps5js-firstapp" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c660f072-3648-4f14-a385-7bd2a433edff" name="Default" comment="" />
+      <created>1508509948686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508509948686</updated>
+      <workItem from="1508509949851" duration="3919000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3919000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.122621566" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/p5.speech.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sketch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="130" column="1" lean-forward="false" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="53" lean-forward="false" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps5index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/RandomSizedTarget.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
